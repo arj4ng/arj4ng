@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**arj4ng/arj4ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Arjang** – a passionate **Web and Mobile Developer** and **UI/UX Designer** with over 6 years of experience in the tech industry.
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in:
+- **Consistent Design**
+- **Modern Design**
+- **Multi-Platform Coding**
+- **Hierarchy Building**
+
+Currently, I am focused on my final project at **Syntax Institut**, where I am enhancing my skills and applying my knowledge in real-world scenarios.
+
+## Professional Background
+
+My experience includes working for **6 years at Theater Lichtermeer**, where I honed my expertise in:
+- **App Development**
+- **UI/UX Design**
+- **Full-Stack Development**
+
+I also pride myself on my **multilingual abilities**, which allow me to collaborate effectively with diverse teams.
+
+## Let's Connect
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/arjangkhdm/) to connect or learn more about my work! 
+
+Thanks for visiting my profile!
