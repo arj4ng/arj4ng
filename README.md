@@ -1,28 +1,56 @@
-# Hi there! 👋
+# Hi there 👋
 
-I am **Arjang** – a passionate **Web and Mobile Developer** and **UI/UX Designer** with over 6 years of experience in the tech industry.
+I'm **Arjang**  
+A developer with a strong eye for design, systems, and real world usability.
 
-## What I Do
+Right now I'm training in modern software development at **Syntax Institut**, building a deeper foundation in **web, mobile, and product development** while already creating production style projects on the side.
 
-I specialize in:
-- **Consistent Design**
-- **Modern Design**
-- **Multi-Platform Coding**
-- **Hierarchy Building**
+## What I Build
 
-Currently, I am focused on my final project at **Syntax Institut**, where I am enhancing my skills and applying my knowledge in real-world scenarios.
+I enjoy creating things that are both useful and clean:
 
-## Professional Background
+- 📱 **Web & Mobile Apps**
+- 🎨 **UI / UX Design**
+- ⚙️ **Internal Tools & Automation**
+- 🧠 **Problem Solving through Software**
+- 🧩 **Turning messy workflows into simple systems**
 
-My experience includes working for **6 years at Theater Lichtermeer**, where I honed my expertise in:
-- **App Development**
-- **UI/UX Design**
-- **Full-Stack Development**
+## Background
 
-I also pride myself on my **multilingual abilities**, which allow me to collaborate effectively with diverse teams.
+Before fully focusing on software, I worked for years in the live entertainment industry.
+
+There I handled far more than technical production:
+
+- Built internal digital tools
+- Improved planning systems
+- Designed websites and graphics
+- Solved IT problems under pressure
+- Managed technical workflows for touring productions
+
+That experience taught me something valuable:  
+software is best when it solves real problems for real people.
+
+## Current Focus
+
+At the moment I'm especially interested in:
+
+- **React / TypeScript**
+- **iOS Development (SwiftUI)**
+- **Modern UI Systems**
+- **Backend Logic & APIs**
+- **Startup style product building**
+
+## A Bit About Me
+
+Outside of coding, I'm into:
+
+- 🎵 Music production
+- 🏍️ Custom builds & design
+- 🎬 Creative projects
+- 🚀 Building ideas from zero
 
 ## Let's Connect
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/arjangkhdm/) to connect or learn more about my work! 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arjangkhdm/)
 
-Thanks for visiting my profile!
+Thanks for stopping by.
