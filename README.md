@@ -69,7 +69,7 @@ When I'm not developing software, you'll probably find me:
 
 - 🎧 Producing music
 - 💡 Exploring lighting and sound design
-- 🏍️ Riding or modifying my electric motorcycle
+- 🏍️ Riding or modifying my electric bike
 - 🎨 Working on creative design projects
 - 🚀 Experimenting with new ideas and technologies
 
