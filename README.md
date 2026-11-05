@@ -1,56 +1,82 @@
 # Hi there 👋
 
-I'm **Arjang**  
-A developer with a strong eye for design, systems, and real world usability.
+I'm **Arjang**, a software developer with a background in design, IT, and live entertainment technology.
 
-Right now I'm training in modern software development at **Syntax Institut**, building a deeper foundation in **web, mobile, and product development** while already creating production style projects on the side.
+I enjoy turning complex workflows into intuitive digital products, combining technical problem-solving with a strong focus on **UI/UX, usability, and practical functionality**.
 
-## What I Build
+After years in the live entertainment industry, I transitioned into software development and completed professional training in **mobile app development for iOS (Swift/SwiftUI) and Android (Kotlin)**.
 
-I enjoy creating things that are both useful and clean:
+Today, I'm focused on building modern web and mobile applications, exploring new technologies, and developing software that solves real-world problems.
 
-- 📱 **Web & Mobile Apps**
-- 🎨 **UI / UX Design**
-- ⚙️ **Internal Tools & Automation**
-- 🧠 **Problem Solving through Software**
-- 🧩 **Turning messy workflows into simple systems**
+## 🚀 What I'm Working On
 
-## Background
+### AufwindPRO
 
-Before fully focusing on software, I worked for years in the live entertainment industry.
+A multi-tenant business management platform designed to simplify complex operational workflows.
 
-There I handled far more than technical production:
+I'm developing the application across its frontend, backend, database architecture, and deployment infrastructure.
 
-- Built internal digital tools
-- Improved planning systems
-- Designed websites and graphics
-- Solved IT problems under pressure
-- Managed technical workflows for touring productions
+**Tech Stack:**
+- Next.js, React & TypeScript
+- Tailwind CSS
+- Supabase & PostgreSQL
+- REST APIs & Third-Party Integrations
+- GitHub Actions & Linux Deployment
 
-That experience taught me something valuable:  
-software is best when it solves real problems for real people.
+The project includes modules for **CRM, project management, task management, and tour operations**, with an emphasis on modular architecture, access control, and clean user experiences.
 
-## Current Focus
+## 🛠️ What I Build
 
-At the moment I'm especially interested in:
+- 📱 **Web & Mobile Applications**
+- 🎨 **UI/UX Design & Interface Systems**
+- ⚙️ **Business Tools & Workflow Automation**
+- 🗄️ **Database-Driven Applications**
+- 🔗 **API Integrations**
+- 🧩 **Solutions for Complex Operational Problems**
 
-- **React / TypeScript**
-- **iOS Development (SwiftUI)**
-- **Modern UI Systems**
-- **Backend Logic & APIs**
-- **Startup style product building**
+## 🎭 My Background
 
-## A Bit About Me
+Before transitioning into software development, I spent several years working in the **live entertainment industry**, eventually taking on technical leadership responsibilities.
 
-Outside of coding, I'm into:
+My work extended beyond lighting and sound engineering:
 
-- 🎵 Music production
-- 🏍️ Custom builds & design
-- 🎬 Creative projects
-- 🚀 Building ideas from zero
+- Developing internal digital tools
+- Improving operational and planning workflows
+- Designing websites and visual assets
+- Managing IT systems and technical infrastructure
+- Coordinating technical operations for touring productions
 
-## Let's Connect
+Working in an environment where reliability, timing, and usability matter taught me to approach software from the perspective of the people actually using it.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arjangkhdm/)
+## 🧠 Current Focus
 
-Thanks for stopping by.
+I'm continuously expanding my knowledge in:
+
+- **React, Next.js & TypeScript**
+- **iOS Development (Swift & SwiftUI)**
+- **Android Development (Kotlin)**
+- **Backend Development & Database Architecture**
+- **API Design & Integrations**
+- **Application Security & Access Control**
+- **AI-Assisted Development**
+- **Scalable SaaS Architecture**
+
+I enjoy working across different areas of software development, from designing an interface to figuring out the systems behind it.
+
+## 🎵 Beyond the Code
+
+When I'm not developing software, you'll probably find me:
+
+- 🎧 Producing music
+- 💡 Exploring lighting and sound design
+- 🏍️ Riding or modifying my electric motorcycle
+- 🎨 Working on creative design projects
+- 🚀 Experimenting with new ideas and technologies
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, designers, and people building interesting products.
+
+Find me on [LinkedIn](https://www.linkedin.com/in/arjangkhdm/).
+
+**Thanks for stopping by!**
