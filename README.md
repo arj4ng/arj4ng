@@ -67,7 +67,7 @@ I enjoy working across different areas of software development, from designing a
 
 When I'm not developing software, you'll probably find me:
 
-- 🎧 Producing music
+- 🎧 Writing & Producing music
 - 💡 Exploring lighting and sound design
 - 🏍️ Riding or modifying my electric bike
 - 🎨 Working on creative design projects
